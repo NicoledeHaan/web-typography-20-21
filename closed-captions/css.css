@@ -9,14 +9,6 @@ body{
     transition: 3s;
 }
 
-/* **********************************************
-Basic mechanics
-Hide all paragraphs by default
-Show them when they receive the class 'on'
-Hide them when they receive the class 'off'
-Feel free to adjust the defaults to your needs.
-********************************************** */
-
 /*Wanneer laat ik de tekst zien*/
 #closed-captions p {
 	opacity: 0;
@@ -186,6 +178,7 @@ You probably want to change the styling.
 
 /*scherm rood laten worden bij alarm geluid */
 .sound1 {
+/*    content: "Thrilling music";*/
     background: black;
     animation: shake2 1s;
 }
@@ -258,6 +251,7 @@ You probably want to change the styling.
 }
 
 /*scherm laten inzoomen*/
+/*Bron: https://css-tricks.com/css-animation-libraries/*/
 .sound9 iframe {
     animation: groter 40s linear both;
 }
@@ -270,3 +264,31 @@ You probably want to change the styling.
         transform: scale(1.3);
     }
 }
+
+
+/*tekst voor muziek*/
+/*
+.sound1 {
+    content: "Thrilling music";
+}
+*/
+
+
+/*Spanning*/
+.sound10 {
+    animation: kleur 1s linear;
+}
+
+  @keyframes kleur {
+      10%{
+          background-color: yellow;
+      }
+      40% {
+          background-color: red;
+      }
+      80% {
+          background-color: orange;
+      }
+}
+
+/*herhaling*/
