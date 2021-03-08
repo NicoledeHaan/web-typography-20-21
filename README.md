@@ -1,83 +1,46 @@
 # Web Typography, 2020/2021
 
-Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als *closed caption*, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
+## Naam: Nicole de Haan
+## Vak: Webtypografie
+## Docent: Vasilis
 
-Alleen wordt die auditieve informatie nogal neutraal beschreven. Het geluid van huilend persoon zou bijvoorbeeld beschreven kunnen worden als *snikgeluid op de achtergrond*. En iemand die lacht zou geschreven kunnen worden als *iemand lacht.* Heel neutraal, bijna zakelijk, en bovendien allebei in precies hetzelfde neutrale lettertype. Terwijl het toch echt over twee heel verschillende emoties gaat. 
+## Opdracht:
 
-Dat kan visueel sterker. 
+Ontwerp een ondertiteling voor dove mensen, zorg ervoor dat zij net zo een ervaring als horende mensen hebben bij de film. Dit doe je met CSS.
 
-En dat gaan jullie doen.
+# Week 1:
 
-## Leerdoelen
+## Kick off
 
-- Je kan de kennis over vormgeving die je hebt opgedaan tijdens de minor technisch toepassen met behulp van CSS
-- Je kan verborgen nuance uit een audiotrack overtuigend vertalen naar visuele (typografische) beelden
-- Je kan je typografische keuzes onderbouwen.
-- Je hebt de exclusive design principles gebruikt.
+Na de eerste les, toen we de briefing hebben gehad van de opdracht ben ik Github Desktop gaan installeren en heb ik gekeken naar de code. Ik ben eerst gaan kijken of ik de code een beetje snap. Vervolgens ben ik de film gaan kijken. Om een idee te hebben hoe iemand de film ervaart die doof is heb ik het fragment een aantal keren zonder geluid gekeken en mijn eerste ideeën wat ik eventueel wil gaan doen qua ondertiteling en achtergrond heb ik een beetje bedacht, maar ik wilde even afwachten wat er uit ons interview met Darice zou komen.
 
-## Oplevering
+## Vragen voor Darice
 
-Je levert een werkende versie op, gemaakt met HTML, CSS en JavaScript. Deze staat op Github. In een duidelijke readme documenteer en onderbouw je je ontwerpkeuzes. Je developmentgeschiedenis is terug te vinden op GitHub.
+Ik heb met mijn groepje een aantal vragen opgesteld voor Darice, wij willen achterhalen wat zij ervaart als zij een film ziet en hoe zij graag een film kijkt nu zij doof is. Hier kwam o.a. naar voren dat ze het fijn vind als minimalistisch en strak is. Ze mist de ervaring van muziek en wil graag weten wat voor muziek er wordt afgespeeld. Verder vind ze het fijn om een zin van de ondertiteling in 1 keer te zien en is het fijn om te weten wie er spreekt, hieronder onderscheidt te maken. Darice gaf ook aan dat het scherm af en toe wel mag bewegen maar niet teveel. 
 
-Je levert ook een *screen recording* met audio op van je fragment. Dit is een video van de definitieve versie, gemaakt van jouw browserscherm.
+Bekijk het hele interview via de link: https://docs.google.com/document/d/1Ih25xYXweAWCzLQA4tO76YKNW4uZ1VHFS-4o05dNOS8/edit
 
-De beoordeling is mondeling en volgt [de rubric uit het beoordelingsformulier](web-typografie-beoordeling.pdf).
+# Week 2:
 
-## Typografische restricties
+## Personages en typografie en kleur
 
-Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In je readme staat een uitleg over je overwegingen om de ene of de andere restrictie te kiezen.
+Om de personages van elkaar te onderscheiden heb ik gebruik gemaakt van typografie. Ik heb voor de tekst gezet wie wat zegt in een bepaalde kleur, je kan dus aan de kleur en tekst weten wie er aan het woord is. 
 
-### Optie 1: Systeemfont
+## Gekozen typografie: Brenner
 
-De eerste optie is dat je gebruik maakt van het zogenaamde *systeemfont* van degene die naar jouw werk kijkt. Dit font verschilt per operating system, en het verschilt soms zelfs per versie van het operating system. Het is ook aan te passen door de gebruiker zelf. 
+Ik heb gekozen voor optie 2: Brenner, omdat ik hier veel keuzes in heb, ik kan bijvoorbeeld monotype doen, Darice gaf in het interview in week 1 aan dat ze dit een fijn vind voor bijvoorbeeld een computer stem. Verder ben ik in dit typografie erg vrij en kan ik dus alle kanten op en goed onderscheid maken in personages.
 
-Je hebt dus geen controle over welk lettertype er precies gebruikt wordt. Het levert dus een onzeker, en beperkt typografisch palet op. Je hebt geen *light* versies, of *extrabold*. En ook geen serif en sans-serif versie van dezelfde familie. In dit geval heb je alleen de beschikking over normal, **bold** en _italic_. Dit heeft natuurlijk ook zijn voordelen!
+## Geluiden en beweging
 
-### Optie 2: Brenner
+De sounds wil ik goed overbrengen aan Darice, hierdoor heb ik gespeelt met kleur en beweging. Bij een alarm geluid zie je het scherm trillen en een rode achtergrond zo krijgt Darice de ervaring van een alarm ook mee. Als er een scan geluid is zie je dit visueel op de achtergrond en wanneer de film inzoomt zie je ook dat de video groter wordt. 
 
-Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. [Hier kan je je verdiepen in dit font](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Als je kiest voor dit font dan heb je de beschikking over een *sans serif*, een *condensed*, een *serif*, een *monotype*, een *slab*, een *display* en een *script* versie. En veel van deze versies hebben varianten van *light* tot *bold*, en allemaal zowel *bold* als *italic*.
+## Ervaring van muziek/sounds
 
-Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn. 
+Verder wil ik nog bovenaan tekst zetten voor Darice wat voor soort muziek er wordt afgespeelt zodat zij dit volledig meekrijgt.
 
-Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
+## Feedback Vasilis:
 
-## Het fragment
+## Feedback Darice:
 
-Ik heb een fragment voorbereid. Het gaat om twee scenes uit *Blade Runner 2049*. De captions staan in de HTML, en ze verschijnen in sync met de video. [Kijk maar](closed-captions/index.html).
 
-### De captions
-
-De captions staan in de html, in het bestand index.html. Je kan aan elke paragraaf eventueel een of meer classes toevoegen. Bijvoorbeeld `voice1` of `voice2 soft`. Classes voeg je handmatig toe in de html.
-
-Met JavaScript worden er een paar dingen extra gedaan: 
-
-- er wordt aan elke paragraaf een unieke class toegevoegd (`p0`, `p1`, etc)
-- Elk woord wordt in een aparte `span` gezet. Hierdoor kan je elk woord apart stylen, en eventueel ook [na elkaar laten verschijnen](https://github.com/cmda-minor-vid/web-typography-18-19/blob/master/closed-captions/css.css#L41).
-
-### Tijdens het afspelen
-
-Tijdens het afspeelen wordt er een class `on` op de caption gezet als hij moet verschijnen, en een class `off` als hij klaar is. *Zowel class `on` als class `off` blijft op de caption staan!*
-
-De timimg van de captions kan je aanpassen in [closed-captions/captions.js](closed-captions/captions.js).
-
-Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespeeld, zoals `sound1` en `sound2`. Je kan geluiden toevoegen in [closed-captions/sounds.js](closed-captions/sounds.js).
-
-*let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
-
-## Een eigen fragment (afgeraden, uitgebreide onderbouwing is nodig)
-
-Je kan er ook voor kiezen om een eigen, *beter* fragment te gebruiken. Dit wordt afgeraden. De tijd die je besteedt aan het zoeken naar dat fragment kan je beter besteden aan het werken aan de opdracht. Bovendien blijkt dat er vaak fragmenten worden gekozen die niet goed voldoen aan de opdracht. Als je een ander fragment kiest dan *moet* je dit goed onderbouwd voorleggen aan je docent. De deadline hiervoor is vrijdagochtend in de eerste week.
-
-### Waar moet je op letten bij het kiezen van een eigen fragment.
-Lees de opdracht nog eens goed door. Waar gaat het ook al weer precies om? 
-
-Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vragen in elk geval beantwoorden:
-
-- Welke informatie zit er in de audio die echt niet zichtbaar is?
-- Welke rol speelt de audio in het fragment?
-- Werkt de scene nog zonder geluid?
-- Waarom is dit fragment beter dan het aangeboden fragment?
-
-Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
-
-Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+# Week 3:
