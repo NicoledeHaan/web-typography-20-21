@@ -39,8 +39,15 @@ De sounds wil ik goed overbrengen aan Darice, hierdoor heb ik gespeelt met kleur
 Verder wil ik nog bovenaan tekst zetten voor Darice wat voor soort muziek er wordt afgespeelt zodat zij dit volledig meekrijgt.
 
 ## Feedback Vasilis:
+- Mag irritant zijn, als het geluid irritant is laat dit ook zien
+- Laat zien dat de tekst "within cells interlinked" ook 3x gezegt wordt.
+- De random persoon die fuck you zegt wordt gefluisterd, laat dit ook zien want nu komt het schreeuwerig over
+- Maak de balk waarin de tekst staat grafisch sterker
 
 ## Feedback Darice:
-
+- Beschrijf 1,2,3 voor herhaling van de tekst die 3x gezegt wordt
+- Het voelt niet alsof fuck off skinjob nu gefluisterd is maar alsof het geschreeuwd is. Zet wispering erachter zodat het ook duidelijk is voor mij.
 
 # Week 3:
+
+In deze week ben ik alle puntjes op de I gaan zetten en de feedback van Vasilis en Darice gaan verwerken. Verder ben ik vooral met het tweede deel van de film aan de slag gegaan. Dit is een wat minder heftig geluid dan het eerste gedeelte dus vandaar dat ik het hier ook rustiger heb gehouden. 
