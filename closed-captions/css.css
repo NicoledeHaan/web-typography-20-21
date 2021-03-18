@@ -11,9 +11,11 @@ iframe {
 }
 
 /*Border om geluidbeschrijving*/
-.geluid1, .geluid2, .geluid3, .geluid4, .geluid5, .geluid6, .geluid7, .geluid8, .geluid9, .geluid10 {
+.geluid1, .geluid2, .geluid3, .geluid4, .geluid5, .geluid6, .geluid7, .geluid8, .geluid9 {
     background: black;
     padding: 10px;
+    z-index: 1;
+    margin-top: 60px;
 }
 
 /*Wanneer laat ik de tekst zien*/
@@ -22,7 +24,7 @@ iframe {
 	transition: .05s;
 	position: absolute;
     text-align: center;
-    width: 98%;
+    width: 100%;
     background: black;
     padding: 10px;
 }
@@ -279,21 +281,6 @@ You probably want to change the styling.
     color: black;
 }
 
-.geluid7 {
-    opacity: 0;
-    position: absolute;
-    left: 45%;
-    top: 15%;
-    color: white;
-    font-size: 1.2em;
-}
-.sound10 .geluid7{
-    opacity: 1;
-}
-.sound11 .geluid7{
-    opacity: 0;
-}
-
 .geluid8 {
     opacity: 0;
     position: absolute;
@@ -309,6 +296,35 @@ You probably want to change the styling.
     opacity: 0;
 }
 
+.geluid7 {
+    opacity: 0;
+    position: absolute;
+    left: 45%;
+    top: 15%;
+    color: white;
+    font-size: 1.2em;
+}
+.sound13 .geluid7{
+    opacity: 1;
+}
+.sound14 .geluid7{
+    opacity: 0;
+}
+
+.geluid9 {
+    opacity: 0;
+    position: absolute;
+    left: 45%;
+    top: 15%;
+    color: white;
+    font-size: 1.2em;
+}
+.sound14 .geluid9{
+    opacity: 1;
+}
+.sound15 .geluid9{
+    opacity: 0;
+}
 
 /*scherm rood laten worden bij alarm geluid */
 .sound1 {
@@ -456,7 +472,7 @@ border: darkblue;
 }
 
 /*Spanning*/
-.sound10 {
+.sound12 {
     animation: kleur 1s linear;
     background-color: black;
 }
@@ -496,7 +512,7 @@ border: darkblue;
 */
 
 /*Tweede stuk*/
-.sound10 .rondje2 {
+.sound12 .rondje2 {
 opacity: 0;
 width: 1em;
 height: 1em;
